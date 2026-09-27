@@ -1,16 +1,14 @@
-## Hi there 👋
+## # Hi, I'm Antara Kalita 👋
 
-<!--
-**justme1324/justme1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student exploring AI, Machine Learning, software development, and technology-driven problem solving.
 
-Here are some ideas to get you started:
+I enjoy working on projects, participating in hackathons, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+
+[Visit my portfolio](https://justme1324.github.io/latest_portfolio.antara/)
+
+## 🔗 Links
+
+- GitHub: https://github.com/justme1324
+- LinkedIn: https://www.linkedin.com/in/antara-kalita-90b70b392/
