@@ -6,7 +6,7 @@ I enjoy working on projects, participating in hackathons, and learning new techn
 
 ## 🌐 Portfolio
 
-[Visit my portfolio](https://justme1324.github.io/latest_portfolio.antara/)
+[Visit my portfolio](https://justme1324.github.io/latest_portfolio/)
 
 ## 🔗 Links
 
